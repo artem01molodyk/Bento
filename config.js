@@ -11,8 +11,8 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
-	imageBackground: false,
+	name: 'pepe',
+	imageBackground: https://wallpaper.forfun.com/fetch/39/399591b52c19fff156885afd12c1d751.jpeg?w=1000&r=0.5625,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
