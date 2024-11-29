@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'pepe',
-	imageBackground: https://wallpaper.forfun.com/fetch/39/399591b52c19fff156885afd12c1d751.jpeg?w=1000&r=0.5625,
+	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
@@ -26,7 +26,7 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'bd5e378503939ddaee76f12ad7a97608', // Write here your API Key
+	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
